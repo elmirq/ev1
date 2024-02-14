@@ -1,0 +1,8 @@
+.el{
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    margin: auto;
+    /* background: linear-gradient(rgba(169,168,78,255), #141505);
+    background-clip: text; */
+}
